@@ -28,9 +28,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jhva.github.io/sample-release/" # GitHub Pages 도메인 설정
 twitter_username: jekyllrb
 github_username: jekyll
-
+remote_theme: chesterhow/tale
 # Build settings
-theme: tale
 plugins:
   - jekyll-feed
 # Exclude from processing.
